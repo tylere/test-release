@@ -2,7 +2,7 @@
 
 <!-- do not remove -->
 
-## 0.0.1
+## 0.0.2
 
 ### New Features
 
@@ -15,5 +15,6 @@
 ### New Features
 
 - Test issue ([#1](https://github.com/tylere/test-release/issues/1))
+
 
 
